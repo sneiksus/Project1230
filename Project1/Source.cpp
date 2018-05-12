@@ -96,5 +96,5 @@ void main()
 	delete []q;
 	cout << "\n FR length = " << dist(B)<<endl;
 	}
-	cout << "counter = " << point::getCount() << endl;
+	//cout << "counter = " << point::getCount() << endl;
 }
